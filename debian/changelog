@@ -1,3 +1,9 @@
+regolith-conky-config (1.05-1ubuntu0) bionic; urgency=medium
+
+  * Fix script name. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Sun, 10 Mar 2019 20:15:58 -0700
+
 regolith-conky-config (1.04-1ubuntu0) bionic; urgency=medium
 
   * Add FTUI script 

@@ -6,8 +6,8 @@
 
 PKG_VERSION=`dpkg -s i3blocks | grep '^Version:' | awk '{print $2}'`
 
-if [ ! -f ~/.regolith-ftui-flag-$PKG_VERSION ]; then
-	touch ~/.regolith-ftui-flag-$PKG_VERSION
+if [ ! -f ~/.regolith-ftue-flag-$PKG_VERSION ]; then
+	touch ~/.regolith-ftue-flag-$PKG_VERSION
 	/usr/bin/conky-toggle.sh
 fi
 
