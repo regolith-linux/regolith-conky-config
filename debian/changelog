@@ -1,0 +1,29 @@
+regolith-conky-config (1.04-1ubuntu0) bionic; urgency=medium
+
+  * Add FTUI script 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Sun, 10 Mar 2019 20:07:46 -0700
+
+regolith-conky-config (1.03-1ubuntu0) bionic; urgency=medium
+
+  * Another typo fix 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Sun, 10 Mar 2019 13:25:05 -0700
+
+regolith-conky-config (1.02-1ubuntu0) bionic; urgency=medium
+
+  * Late night typos.  Fix toggle script name. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Sun, 10 Mar 2019 09:54:21 -0700
+
+regolith-conky-config (1.01-1ubuntu0) bionic; urgency=medium
+
+  * Fix path to config file. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Sat, 09 Mar 2019 22:08:11 -0800
+
+regolith-conky-config (1.0-1) bionic; urgency=medium
+
+  * Initial release
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Fri, 08 Mar 2019 07:21:27 -0800
