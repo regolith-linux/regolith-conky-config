@@ -1,3 +1,9 @@
+regolith-conky-config (1.06-1ubuntu0) bionic; urgency=medium
+
+  * Add shortcut for gap size change.
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Fri, 15 Mar 2019 07:13:51 -0700
+
 regolith-conky-config (1.05-1ubuntu0) bionic; urgency=medium
 
   * Fix script name. 
