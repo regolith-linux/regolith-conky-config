@@ -1,3 +1,9 @@
+regolith-conky-config (1.12-1ubuntu1ppa1) bionic; urgency=medium
+
+  * Add arm build 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Fri, 28 Jun 2019 21:00:51 -0700
+
 regolith-conky-config (1.10-1ubuntu1) bionic; urgency=medium
 
   * Cleanup FTUE script. 
