@@ -1,3 +1,10 @@
+regolith-conky-config (1.13-1ubuntu1ppa1) bionic; urgency=medium
+
+  * Incorporate shortcut improvements by @eldelacajita.  Fixes
+    https://github.com/regolith-linux/regolith-conky-config/issues/1. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Thu, 04 Jul 2019 11:23:24 -0700
+
 regolith-conky-config (1.12-1ubuntu1ppa1) bionic; urgency=medium
 
   * Add arm build 
