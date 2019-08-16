@@ -1,3 +1,11 @@
+regolith-conky-config (1.14-1ubuntu1ppa1) disco; urgency=medium
+
+  * Move flag directory.
+  * Cleanup comments.
+  * Do not launch conky per i3-wm version, just once. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Fri, 16 Aug 2019 08:42:07 -0700
+
 regolith-conky-config (1.13-1ubuntu1ppa1) bionic; urgency=medium
 
   * Incorporate shortcut improvements by @eldelacajita.  Fixes
