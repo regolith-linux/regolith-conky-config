@@ -1,3 +1,13 @@
+regolith-conky-config (2.0-1ubuntu1~ppa1) disco; urgency=medium
+
+  * Reduce number of items for VGA monitor support.
+  * Window always on top.
+  * Change color scheme to be neutral.
+  * Update typeface for more compact presentation.
+  * Remove postfix from script name per Ubuntu convention.
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Tue, 27 Aug 2019 21:18:40 -0700
+
 regolith-conky-config (1.14-1ubuntu1ppa1) disco; urgency=medium
 
   * Move flag directory.
