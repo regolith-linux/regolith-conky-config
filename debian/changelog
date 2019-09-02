@@ -1,3 +1,9 @@
+regolith-conky-config (2.01-1ubuntu1~ppa1) disco; urgency=medium
+
+  * Use new Conky config file format. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Mon, 02 Sep 2019 08:22:39 -0700
+
 regolith-conky-config (2.0-1ubuntu1~ppa1) disco; urgency=medium
 
   * Reduce number of items for VGA monitor support.
