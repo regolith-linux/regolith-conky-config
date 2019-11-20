@@ -1,9 +1,11 @@
 #!/bin/bash
 # If conky is running, kill it.  Otherwise start it.
 
-if pgrep -x "conky" > /dev/null
+CONKY_PID=$(ps aux | grep "[/]usr/bin/conky -q -c /etc/regolith/conky/config" | awk '{print $2}')
+
+if [ -z "$CONKY_PID" ]
 then
-    killall conky
-else
     /usr/bin/conky -q -c /etc/regolith/conky/config &
+else
+    kill $CONKY_PID
 fi
