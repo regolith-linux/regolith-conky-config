@@ -1,3 +1,9 @@
+regolith-conky-config (2.01-1ubuntu1~ppa2) eoan; urgency=medium
+
+  * Do not kill conky sessions that are not from Regolith. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Tue, 19 Nov 2019 21:00:00 -0800
+
 regolith-conky-config (2.01-1ubuntu1~ppa1) disco; urgency=medium
 
   * Use new Conky config file format. 
